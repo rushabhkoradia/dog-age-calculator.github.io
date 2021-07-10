@@ -1,5 +1,5 @@
 # Basic Backend Node.js Website
-Hi I made this project using <b><i>Python</i></b>.
+Hi I made this project using <b><i>Node.js & Express.js</i></b>.
 <p>You can follow me on:</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/rushabh-koradia/">LinkedIn</a>
